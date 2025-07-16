@@ -3,3 +3,11 @@ body {
     text-align: center;
     margin-top: 50px;
 }
+
+button {
+    background-color: lightseagreen;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}

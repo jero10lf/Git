@@ -1,3 +1,3 @@
 function saludar() {
-    alert("Hola desde el proyecto base!");
+    alert("¡Saludos, terrícolas!");
 }

@@ -4,3 +4,11 @@ body {
     margin-top: 50px;
     color: blue;
 }
+
+button {
+    background-color: lightseagreen;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}

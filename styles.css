@@ -2,8 +2,24 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 50px;
+
     border: 2px solid #000; /* Esto añade un borde negro de 2px */
     
     min-height: calc(100vh - 140px); /* Asegura que el borde rodee el contenido */
     padding: 20px; /* Añade espacio interno entre el borde y el contenido */
+
+
+    background-color: aqua;
+
+    color: blue;
+
+}
+
+button {
+    background-color: lightseagreen;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+
 }
